@@ -3,7 +3,7 @@
  */
 
 angular
-    .module('RDash')
+    .module('swamaanShaadiApp')
     .directive('rdWidgetHeader', rdWidgetTitle);
 
 function rdWidgetTitle() {

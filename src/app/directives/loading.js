@@ -4,7 +4,7 @@
  */
 
 angular
-    .module('RDash')
+    .module('swamaanShaadiApp')
     .directive('rdLoading', rdLoading);
 
 function rdLoading() {
