@@ -11,7 +11,7 @@ var gulp = require('gulp'),
     minifyHTML = require('gulp-htmlmin');
 
 var paths = {
-    scripts: 'src/app/js/**/*.*',
+    scripts: 'src/app/**/*.js',
     styles: 'src/app/less/**/*.*',
     images: 'src/app/img/**/*.*',
     templates: 'src/app/templates/**/*.html',
